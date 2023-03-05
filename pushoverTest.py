@@ -6,7 +6,7 @@ Pushover App Test
 
 """
 
-# import moduhles
+# import modules
 import http.client, urllib
 
 # create connection
